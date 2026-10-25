@@ -1,0 +1,19 @@
+# credentials
+.env
+.env.*
+
+# virtual environments
+.venv/
+venv/
+*_venv/
+
+# python
+__pycache__/
+*.py[cod]
+
+# jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
